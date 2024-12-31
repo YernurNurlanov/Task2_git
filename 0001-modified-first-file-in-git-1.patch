@@ -1,0 +1,24 @@
+From 4adede88a724dc81c79208152431b7a6c29c9ce0 Mon Sep 17 00:00:00 2001
+From: Yernur Nurlanov <nurlanovernur33@gmail.com>
+Date: Wed, 29 Apr 2026 22:02:47 +0500
+Subject: [PATCH] modified first file in git 1
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 1dac6de..798e0d7 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-
+-
++git_1
++git_1
+ 
+ 
+ 
+-- 
+2.45.1.windows.1
+
